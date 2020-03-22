@@ -11,8 +11,7 @@ Purpose:  This project will get you thinking correctly about choosing good names
  1) write out 10 nouns in the space provided below.
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
-    e
- 
+
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
         car.hasHorn()
@@ -44,8 +43,6 @@ Make a pull request after you make your first commit and pin the pull request li
 send me a DM to check your pull request
 
  Wait for my code review.
- */
-
 
 //  example)
 //  Noun:       arm                     // 1)
@@ -56,87 +53,86 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: speaker
+//  action 1: speaker.play()
 
-//  action 2:
+//  action 2: speaker.createVibration()
 
-//  action 3:
+//  action 3: speaker.colorLivingRoom()
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: lighter
+//  action 1: lighter.lightUp()
 
-//  action 2:
+//  action 2: lighter.burn()
 
-//  action 3:
+//  action 3: lighter.work()
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: monkey
+//  action 1: monkey.stealBanana()
 
-//  action 2:
+//  action 2: monkey.swim()
 
-//  action 3:
+//  action 3: monkey.fightTourist()
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: dog.bark()
 
-//  action 2:
+//  action 2: dog.bite()
 
-//  action 3:
+//  action 3: dog.fetch()
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: cat.jump()
 
-//  action 2:
+//  action 2: cat.loseFirstLife()
 
-//  action 3:
+//  action 3: cat.selfClean()
  
-//  6)
-//  Noun:
-//  action 1:
+//  6) 
+//  Noun: ant
+//  action 1: ant.walk()
 
-//  action 2:
+//  action 2: ant.collectFood()
 
-//  action 3:
+//  action 3: ant.makeHole()
  
-//  7)
-//  Noun:
-//  action 1:
+//  7) 
+//  Noun: remote
+//  action 1: remote.changeChannel()
 
-//  action 2:
+//  action 2: remote.turnTvOn()
 
-//  action 3:
+//  action 3: remote.turnTvOff()
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: candle
+//  action 1: candle.illuminate()
 
-//  action 2:
+//  action 2: candle.burn()
 
-//  action 3:
+//  action 3: candle.burnOut()
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: phone.ring()
 
-//  action 2:
+//  action 2: phone.vibrate()
 
-//  action 3:
+//  action 3: phone.call()
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: fan
+//  action 1: fan.coolPeople()
 
-//  action 2:
+//  action 2: fan.coolRoom()
 
-//  action 3:
- 
+//  action 3: fan.work()
+ */
 
 
 #endif
